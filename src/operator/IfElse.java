@@ -3,7 +3,7 @@ package operator;
 public class IfElse {
     public static void main(String[] args) {
         double totalBelanja = 53000;
-        double uangDiDompet = 25000;
+        double uangDiDompet = 125000;
 
         if (uangDiDompet<totalBelanja) {
             System.out.println("uang kurang, kurangi jajan anda");
